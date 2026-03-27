@@ -1,0 +1,2 @@
+EXISTS secimport-lab/data/secret/secret.txt
+DELETE secimport-lab/data/secret/secret.txt
