@@ -1,2 +1,0 @@
-EXISTS secimport-lab/data/secret/secret.txt
-RENAME secimport-lab/data/secret/secret.txt secimport-lab/data/public/public_new.txt
